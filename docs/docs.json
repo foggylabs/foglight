@@ -12,6 +12,12 @@
     "light": "#55AAFF",
     "dark": "#0066CC"
   },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/introduction"
+    }
+  ],
   "navigation": {
     "groups": [
       {
