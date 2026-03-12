@@ -10,8 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-coming%20soon-0088FF?style=flat-square" alt="Status: Coming Soon">
-  <a href="https://foglight.co"><img src="https://img.shields.io/badge/foglight.co-0088FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHJ4PSIzIiByeT0iMyIgZmlsbD0iIzAwODhGRiIvPjwvc3ZnPg==" alt="Website"></a>
-  <a href="https://github.com/foggylabs/foglight/stargazers"><img src="https://img.shields.io/github/stars/foggylabs/foglight?style=flat-square&color=0088FF" alt="GitHub Stars"></a>
+  <a href="https://foglight.co"><img src="https://img.shields.io/badge/website-foglight.co-0088FF?style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
 </p>
 
 ---
